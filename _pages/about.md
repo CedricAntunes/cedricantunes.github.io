@@ -10,7 +10,7 @@ redirect_from:
 
 A bit about myself
 ======
-I am an MSc candidate in Political Science at Fundação Getulio Vargas (FGV-EESP & CEPESP) in São Paulo, Brazil. I concluded my Bachelor of Arts in political science and IR at FGV-RI in 2022 (*cum laude*). I have also attended the the Department of Social Sciences at the University of Oslo (Oslo, Norway – 2021).
+I am an MSc candidate in Political Science at Fundação Getulio Vargas (FGV-EASP & CEPESP) in São Paulo, Brazil. I concluded my Bachelor of Arts in political science and IR at FGV-RI in 2022 (*cum laude*). I have also attended the the Department of Social Sciences at the University of Oslo (Oslo, Norway – 2021).
 
 A bit about what I do
 ======
