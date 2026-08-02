@@ -15,7 +15,7 @@ Click a citation to view its abstract and working-paper information.
 
 <details>
   <summary>
-    Julia Trautendorfer, Cedric Antunes, and Gregory Michener. 2026. <b>Transparency talk among candidates for public office.</b> <em>Local Government Studies</em>: 1-29.
+     with Julia Trautendorfer and Gregory Michener. 2026. <b>Transparency talk among candidates for public office.</b> <em>Local Government Studies</em>: 1-29.
   </summary>
 
   <p>
@@ -37,7 +37,7 @@ Click a citation to view its abstract and working-paper information.
 
 <details>
   <summary>
-    Cedric Antunes and Christoph Zürcher. 2026. <b>Fragility Exit</b>. Working paper.
+    with Christoph Zürcher. 2026. <b>Fragility Exit</b>. Working paper.
   </summary>
 
   <p>
