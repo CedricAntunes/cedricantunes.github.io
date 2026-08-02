@@ -43,29 +43,28 @@ Click a citation to view its abstract and working-paper information.
   <p>
     <strong>Abstract.</strong>
     We know much more about how states become fragile than about how they exit fragility.
-
-This paper develops an endogenous theory of fragility exit and introduces a new meas-
-ure to identify 36 exit episodes between 1971 and 2022. We define fragility minimally,
-as institutional failure across four dimensions: corruption and elite predation, political
-violence by non-state actors, legal regularity, and impartial public administration. We
-argue that fragile orders persist because ruling settlements often preserve power through
-restricted rents, selective enforcement, politicized administration, and discretionary au-
-thority. Exits occur when wars, regime transitions, macroeconomic crises, or external
-interventions disrupt these bargains and create openings for new political settlements.
-These exits are equifinal: some occur through democratization, others through autocratic
-consolidation, postwar reconstruction, or crisis-induced elite realignment. Across these
-pathways, the common mechanism is the reorganization of elite relations in ways that make
-public authority more predictable, restrained, and impersonal. Empirically, we combine
-two-way fixed-effects models, staggered difference-in-differences estimates around regime
-transitions, discrete-time hazard models of sustained exit, and structured case studies
-of all 36 episodes. The results show that fragility is most consistently associated with
-autocracy, violent conflict, and lower income. Democratization is followed by declining
-fragility, while autocratization moves less robustly in the opposite direction. Sustained exit
-is most consistently associated with higher liberal democracy and GDP per capita, and is
-less likely under chronic conflict. Acute conflict is positively associated with exit in some
-specifications, consistent with terminal escalations or settlements that rupture existing
-fragile bargains. Overall, fragility exits are best understood not as gradual technocratic
-reforms, but as episodes of political reordering.
+    This paper develops an endogenous theory of fragility exit and introduces a new meas-
+    ure to identify 36 exit episodes between 1971 and 2022. We define fragility minimally,
+    as institutional failure across four dimensions: corruption and elite predation, political
+    violence by non-state actors, legal regularity, and impartial public administration. We
+    argue that fragile orders persist because ruling settlements often preserve power through
+    restricted rents, selective enforcement, politicized administration, and discretionary au-
+    thority. Exits occur when wars, regime transitions, macroeconomic crises, or external
+    interventions disrupt these bargains and create openings for new political settlements.
+    These exits are equifinal: some occur through democratization, others through autocratic
+    consolidation, postwar reconstruction, or crisis-induced elite realignment. Across these
+    pathways, the common mechanism is the reorganization of elite relations in ways that make
+    public authority more predictable, restrained, and impersonal. Empirically, we combine
+    two-way fixed-effects models, staggered difference-in-differences estimates around regime
+    transitions, discrete-time hazard models of sustained exit, and structured case studies
+    of all 36 episodes. The results show that fragility is most consistently associated with
+    autocracy, violent conflict, and lower income. Democratization is followed by declining
+    fragility, while autocratization moves less robustly in the opposite direction. Sustained exit
+    is most consistently associated with higher liberal democracy and GDP per capita, and is
+    less likely under chronic conflict. Acute conflict is positively associated with exit in some
+    specifications, consistent with terminal escalations or settlements that rupture existing
+    fragile bargains. Overall, fragility exits are best understood not as gradual technocratic
+    reforms, but as episodes of political reordering.
   </p>
 
   <p>
