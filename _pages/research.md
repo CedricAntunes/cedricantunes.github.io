@@ -15,7 +15,7 @@ Click a citation to view its abstract and working-paper information.
 
 <details>
   <summary>
-    [Authors]. [Year]. “Transparency talk among candidates for public office.” <em>Local Government Studies</em>: 1-29.
+    Julia Trautendorfer, Cedric Antunes, and Gregory Michener. 2026. “Transparency talk among candidates for public office.” <em>Local Government Studies</em>: 1-29.
   </summary>
 
   <p>
@@ -26,7 +26,7 @@ Click a citation to view its abstract and working-paper information.
   <p>
     <strong>Paper:</strong>
 <a href="[YOUR_GOOGLE_DRIVE_LINK](https://www.tandfonline.com/doi/full/10.1080/03003930.2026.2699741?scroll=top&needAccess=true#abstract)" target="_blank" rel="noopener">
-  Download the working paper
+  Download the paper.
 </a>.
   </p>
 </details>
